@@ -1,4 +1,4 @@
-# SIDSentinel 🛡️
+# SIDSentinel 
 
 A PowerShell auditing toolkit for detecting duplicate Security Identifiers (SIDs) across Windows user accounts — built for sysadmins and security teams managing enterprise Windows environments.
 
